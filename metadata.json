@@ -1,0 +1,6 @@
+{
+  "name": "LastDeal",
+  "description": "Hyperlocal marketplace app connecting local businesses with nearby customers to sell near-expiry food at a discount.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
